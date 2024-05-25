@@ -21,5 +21,5 @@ export {
   Scurity,
   Statistics,
   Testomonial,
-  Token,
+  Token
 };
